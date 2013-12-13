@@ -1,0 +1,18 @@
+{
+    "users": [
+        {
+            "name": "tom",
+            "reporting": {
+                "tz": "America/New_York",
+                "enabled": true
+            }
+        },
+        {
+            "name": "mary",
+            "reporting": {
+                "tz": "GMT",
+                "enabled": true
+            }
+        }
+    ]
+}

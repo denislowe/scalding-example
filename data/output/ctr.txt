@@ -1,0 +1,8 @@
+mary	Denver	3	0
+mary	Sacremento	1	0
+tom	Denver	2	0
+tom	Elkhorn	1	0
+tom	New York	2	0
+tom	Sacremento	4	0
+tom	San Francisco	4	0
+tom	San Jose	1	0

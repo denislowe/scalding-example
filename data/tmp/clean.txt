@@ -1,0 +1,18 @@
+Impression(tom,1349115057515,1,cat1,WIN_7,San Francisco,0)	1	impression
+Impression(tom,1349115153151,3,cat3,ANDROID,San Francisco,0)	3	impression
+Impression(tom,1349115320554,4,cat3,WIN_7,San Francisco,0)	4	impression
+Impression(tom,1349115372959,6,cat1,WIN_7,Denver,0)	6	impression
+Impression(mary,1349115895738,9,cat1,WIN_7,Denver,0)	9	impression
+Impression(tom,1349115950836,10,cat2,WIN_7,Sacremento,0)	10	impression
+Impression(tom,1349116111181,13,cat1,MAC_OS,New York,0)	13	impression
+Impression(tom,1349116147273,14,cat2,WIN_7,New York,0)	14	impression
+Impression(tom,1349116348816,15,cat3,WIN_7,Sacremento,0)	15	impression
+Impression(tom,1349116378343,16,cat3,WIN_7,San Jose,0)	16	impression
+Impression(mary,1349116430746,17,cat3,WIN_7,Denver,0)	17	impression
+Impression(mary,1349116443833,18,cat3,MAC_OS,Denver,0)	18	impression
+Impression(tom,1349116695045,20,cat1,WIN_7,Sacremento,0)	20	impression
+Impression(tom,1349116720444,21,cat2,WIN_7,Elkhorn,0)	21	impression
+Impression(mary,1349116750555,22,cat3,ANDROID,Sacremento,0)	22	impression
+Impression(tom,1349117340258,24,cat2,WIN_7,Sacremento,0)	24	impression
+Impression(tom,1349117381123,25,cat2,WIN_7,San Francisco,0)	25	impression
+Impression(tom,1349117384441,26,cat3,ANDROID,Denver,0)	26	impression
